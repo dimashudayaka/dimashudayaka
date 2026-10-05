@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dimas Hudayaka 👋
 
-<!--
-**dimashudayaka/dimashudayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+🎓 Student at Universitas Dian Nuswantoro
+💻 Interested in web development
+📚 Currently learning Laravel and building a clinic website as a course project
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Languages: PHP, JavaScript, HTML, CSS
+Frameworks & Tools: Laravel, Tailwind CSS, MySQL, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+Email:ravinopratama01@gmail.com
